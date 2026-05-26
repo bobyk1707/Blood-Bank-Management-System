@@ -1,4 +1,10 @@
-Introduction ----->
+## Live Demo  
+
+https://bbms.infinityfreeapp.com/?i=1
+
+
+
+# Introduction ----->
  
 The BLOOD BANK MANAGEMENT SYSTEM project is a great project. This project is     designed for successful execution of blood bank management system functionality.  
 The basic building aim is to provide online blood bank service to the people. It is a browserbased system that is designed to store, process, retrieve and analyse information concerned with the administrative and inventory management within a blood bank system.   
@@ -47,7 +53,7 @@ Once he makes a request, it will be reflected in the admin dashboard. Now admin 
   
   
     	 
-Objective ----->
+# Objective ----->
  
  
 1.	Ensure Blood Safety- 
@@ -92,7 +98,7 @@ Objective: Develop training programs, awareness campaigns, and educational mater
  
  
  
-SOFTWARE TECHNOLOGIES ----->
+# SOFTWARE TECHNOLOGIES ----->
  
  
 1.	HTML  
@@ -132,18 +138,12 @@ Stocks:
 id(int)  	name(varchar)  	email(varchar)  	password(varchar)  	mobile(bigint) 
  
 
- 
- 
-Screenshots of Project ----->
 
 
 
 
 
-
- 
- 
-Limitations ----->
+#Limitations ----->
  
 1.	Limited  	Automation  
 The system may require manual entry of donor and blood collection data, which can lead to human errors.  
